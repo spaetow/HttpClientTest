@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/httpclient-4.3.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/opensaml-2.5.1-1.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/openws-1.4.2-1.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/xmlsec-1.4.4.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/aspectjrt-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/aspectjweaver-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/avalon-framework-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/bcprov-jdk15-1.44.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/not-yet-commons-ssl-0.3.9.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/velocity-1.5.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/xmltooling-1.3.2-1.jar"/>
+	<classpathentry kind="lib" path="/home/sysdev/.m2/repository/de/tudarmstadt/ukp/shibhttpclient/shib-http-client/1.0.0/shib-http-client-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/esapi-2.0GA.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/sysdev/.m2/repository/uk/ac/diamond/shibboleth-ecp-authclient/1.1.0/shibboleth-ecp-authclient-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/var/lib/tomcat7/webapps/cas/WEB-INF/lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
